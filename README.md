@@ -1,2 +1,2 @@
-# -Olivia-Ye-Projects-Portfolio
+# Olivia Ye - Projects Portfolio
 Analytics Portfolio
