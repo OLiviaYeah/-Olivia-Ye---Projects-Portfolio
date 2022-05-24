@@ -19,4 +19,5 @@ My name is Olivia Ye and welcome to my Project Portfolio! As a motivated, teamwo
 ### Contact Me
 
 Email: oliviayeling@gmail.com
+
 LinkedIn: www.linkedin.com/in/lingzhioliviaye24886
