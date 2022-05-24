@@ -4,9 +4,9 @@
 
 This repository holds all of my personal projects that I've done. Currently they're binned in three different categories:
 
-1. SQL
-2. Tableau
-3. Python
+1. SQL ( https://oliviayeah.github.io/Sales-Performance-Visualization-Dashboard-/)
+2. Tableau ( https://oliviayeah.github.io/Sales-Performance-Visualization-Dashboard-/)
+3. Python (https://oliviayeah.github.io/Hotel-Booking-Demand-Exploratory-Data-Analysis/)
 
 Each category has their own variety of projects and should be accompanied by some form of documentation.
 
@@ -19,3 +19,4 @@ My name is Olivia Ye and welcome to my Project Portfolio! As a motivated, teamwo
 ### Contact Me
 
 Email: oliviayeling@gmail.com
+LinkedIn: www.linkedin.com/in/lingzhioliviaye24886
