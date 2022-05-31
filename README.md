@@ -4,7 +4,7 @@
 
 This repository holds all of my personal projects that I've done. Currently they're binned in three different categories:
 
-1. SQL ( https://oliviayeah.github.io/Sales-Performance-Visualization-Dashboard-/)
+1. SQL (https://oliviayeah.github.io/-E-Commerce-User-Behavior-Analysis/)
 2. Tableau ( https://oliviayeah.github.io/Sales-Performance-Visualization-Dashboard-/)
 3. Python (https://oliviayeah.github.io/Hotel-Booking-Demand-Exploratory-Data-Analysis/)
 
